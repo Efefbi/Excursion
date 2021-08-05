@@ -1,0 +1,36 @@
+body{
+	margin: 0px;
+	padding:0px;
+	text-align: center;
+	background-color: black;
+}
+header h1{
+	font-family: Verdana;
+	font-weight: Normal;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	
+}
+.download{
+	color: Aquamarine;
+	font-size: 16px;
+	
+}
+h2{
+	font=family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+p{
+	font-family: Verdana;
+	font-size: 21px;
+	color: grey;
+}
+#signature {
+	text-align: right;
+	color: gray;
+	float: right;
+	font-size: 30px;
+}
